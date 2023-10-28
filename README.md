@@ -20,7 +20,7 @@ This project is built on react-native CLI, so make sure you've [set up developme
 
 ```bash
 # clone the project and cd into it
-git clone https://github.com/Aashu-Dubey/React-Native-UI-Templates.git
+git clone https://github.com/myshine112/React-Native-UI-Templates.git
 cd ./React-Native-UI-Templates
 
 # install dependencies
